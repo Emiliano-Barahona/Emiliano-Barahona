@@ -26,21 +26,28 @@
 ---
 
 ## 🛠️ Technologies I Work With
-
+<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,bash,java,py,cpp,js,nodejs,express,react,mysql,postgres,postman,vscode,idea&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,express,git,github,linux,docker,mysql,nextjs,nodejs,postman,py,react,angular,ts,vscode&perline=14" />
   </a>
 </p>
 
 ---
 
-### 🔗 Contact Me
+### 🔗 &nbsp;Contact Me
+<p align="center">Let's connect! Feel free to reach out for collaborations, projects, or just to say hi 👋</p>
 
 <div align="center">
-<a href="mailto:eemibarahona@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/emiliano-barahona-566563217"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/eemibarahona/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:eemibarahona@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/emiliano-barahona-566563217">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/eemibarahona/">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
 ---
