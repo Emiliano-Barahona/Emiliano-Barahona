@@ -35,10 +35,10 @@
 
 ---
 
-### 🔗 &nbsp;Contact Me <a target="_blank">
+### 🔗 &nbsp;Connect with me 
+<p align="center">Let's connect! Feel free to reach out for collaborations, projects, or just to say hi <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-  </a>
-<p align="center">Let's connect! Feel free to reach out for collaborations, projects, or just to say hi 👋</p>
+  </a></p>
 
 <div align="center">
   <a href="mailto:eemibarahona@gmail.com">
