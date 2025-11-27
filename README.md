@@ -16,9 +16,10 @@
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+- 🚀 Always exploring new technologies and improving my development workflow.
+- 🧩 Interested in backend development, systems engineering, and software architecture.
+- 🐧 Love working with Linux, Docker, Git, and automation tools.
+- 🌱 Learning more about DevOps, networking, and scalable software design.
 
 ## 🛠 &nbsp;Tech Stack
 
