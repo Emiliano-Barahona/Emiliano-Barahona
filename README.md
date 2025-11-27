@@ -35,7 +35,7 @@
 
 ---
 
-### 🔗 &nbsp;Connect with me 
+## 🔗 &nbsp;Connect with me 
 <p align="center">Let's connect! Feel free to reach out for collaborations, projects, or just to say hi <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a></p>
